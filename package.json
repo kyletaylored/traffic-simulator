@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^10.1.0",
-    "sitemapper": "^3.1.12",
+    "p-limit": "^5.0.0",
+    "puppeteer": "^21.5.0",
+    "sitemapper": "^3.1.8",
     "user-agents": "^1.0.710"
   }
 }
